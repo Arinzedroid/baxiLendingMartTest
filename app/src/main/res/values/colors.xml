@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFD403</color>
+    <color name="colorPrimaryDark">#FFD403</color>
+    <color name="appLogoYellow">#FEB60D</color>
+    <color name="colorAccent">#ABD040</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#323232</color>
+    <color name="colorMilkyWhite">#E5E5E5</color>
+    <color name="colorRed">#de5246</color>
+</resources>
